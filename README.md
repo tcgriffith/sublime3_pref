@@ -9,9 +9,17 @@
   new file:   Python.sublime-settings
 
 
-directory to put:
+##directory
 ```
 pwd:
 /home/tc/.config/sublime-text-3/Packages/User
 
 ```
+
+* settings were shamelessly copied from [this blog](https://realpython.com/blog/python/setting-up-sublime-text-3-for-full-stack-python-development/)
+
+##other notes
+
+* I like to use `inconsolata` everywhere!
+* markdown highlighting in sublime3 is kinda shitty
+*
